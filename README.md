@@ -1,2 +1,2 @@
 # SPC58
-FreeRTOS
+In this repository I want to use FreeRTOS on SPC58.
